@@ -1,0 +1,12 @@
+name: SDAIapp
+title: SDAIapp
+username:
+account: thebest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 371826
+bundleId: 1460692
+url: https://thebest.shinyapps.io/SDAIapp/
+when: 1530536101.22288
+asMultiple: FALSE
+asStatic: FALSE
